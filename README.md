@@ -1,4 +1,4 @@
-#Note taking app using React 
+# Note taking app using React 
 
 Link to try: https://gaurav0203.github.io/notetakingapp/
 
